@@ -13,4 +13,4 @@ vars:
   
 modules:
   activate:
-  - lab2
+  - lab1
