@@ -1,8 +1,8 @@
 id: "workshop2"
-name: "OpenShift Mini Workshop"
+name: "OpenShift Mini Workshop xxx"
 
 content:
-  url: https://raw.githubusercontent.com/siamaksade/workshopper-template/master
+  url: https://raw.githubusercontent.com/craigivy/workshopper-template/master
 
 vars:
   OPENSHIFT_DOCS_BASE: "https://docs.openshift.com/container-platform/3.7"
